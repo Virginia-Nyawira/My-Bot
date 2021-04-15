@@ -1,6 +1,7 @@
-# therabot
+# my_bot
 
-A new Flutter application.
+A simple application using flutter and dialogflow. Dialogflow is 
+the building block of the chatbot, which provides auto responses.
 
 ## Getting Started
 
